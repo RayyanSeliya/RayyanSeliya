@@ -2,6 +2,9 @@
   Hi there, I'm <a href="https://github.com/RayyanSeliya">Rayyan Seliya </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
 
+
+<img src="https://komarev.com/ghpvc/?username=RayyanSeliya&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+
 <p align="center">
   <em> Open Source Enthusiast | Exploring New Technologies </em>
 </p>
@@ -27,6 +30,8 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+
 
 ## 👨‍💻 About Me
 
